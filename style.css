@@ -5,3 +5,6 @@ header{
     margin-left: 22px;
     font-family: consolas;
 }
+.custom-img{
+    opacity: 0.3;
+}
