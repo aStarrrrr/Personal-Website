@@ -8,3 +8,10 @@ header{
 .custom-img{
     opacity: 0.3;
 }
+footer{
+    background-color: #333445;
+}
+.footer-components{
+    text-decoration: none;
+    color: white;
+}
