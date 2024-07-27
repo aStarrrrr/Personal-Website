@@ -15,6 +15,10 @@ footer{
     text-decoration: none;
     color: white;
 }
-.padding-section{
+.padding-skill-section{
     padding-top: 8em;
+}
+.padding-contact-section{
+    padding-top: 8em;
+    padding-bottom: 4em;
 }
